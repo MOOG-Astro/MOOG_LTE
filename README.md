@@ -15,7 +15,7 @@ use the following command:
 
     make -f Makefile*
 
-Accordingly, a Fortran compiler is necessary (for example, succesful MOOG_LTE compilation has been achieved with a ``gfortran`` compiler).  In addition, MOOG_LTE relies 
+Accordingly, a Fortran compiler is necessary (for example, succesful MOOG_LTE compilation has been achieved with the ``gfortran`` compiler).  In addition, MOOG_LTE relies 
 completely upon [SuperMongo](https://www.astro.princeton.edu/~rhl/sm/) for plotting/visualziation (latest release 2.4.1).	
     
 Documentation
