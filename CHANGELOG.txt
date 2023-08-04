@@ -1,0 +1,14 @@
+File describes modifications made to the MOOG-LTE code since its release in Nov 2019 (as found on the C. Sneden website: https://www.as.utexas.edu/~chris/moog.html)
+
+03 AUGUST 2023
+------------
+
+- (JS) Slight changes to text documentation of Partfn.f subroutine.
+- (JS) Inmodel.new file is ignored and will eventually be removed from main directory
+- (JS) Removal of PLOTVAL common block
+- (JS) Modification of Correl.f to delete PLOTVALS common block
+- (JS) Removal of common block file from distribution
+- (JS) Deletion of the ISOPLOT driver call (and associated text) in the Moogsilent.f routine (note: slight additional departures btwn Moog and Moogsilent) 
+- (JS) Deletion of the ISOPLOT driver call (and associated text) in the Params.f routine
+
+
