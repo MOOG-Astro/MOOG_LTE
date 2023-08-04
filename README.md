@@ -20,4 +20,4 @@ completely upon [SuperMongo](https://www.astro.princeton.edu/~rhl/sm/) for plott
     
 Documentation
 -------------
-There is a pdf file included in the distribution.  
+The "MOOG-LTE_Documentation_Nov2019.pdf" file is included in the distribution.  Future plans entail other forms of documentation.  
